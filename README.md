@@ -2,25 +2,9 @@
 
 custom alerts for react-native apps
 
-## Installation
+### under construction
+![under construction](https://media.giphy.com/media/l2JdZPVXMLr16NRlu/giphy.gif)
 
-```sh
-npm install react-native-custom-alerts
-```
-
-## Usage
-
-```js
-import { multiply } from "react-native-custom-alerts";
-
-// ...
-
-const result = await multiply(3, 7);
-```
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
 ## License
 
